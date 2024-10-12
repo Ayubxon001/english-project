@@ -10,7 +10,7 @@ const Footers = () => {
           <h1 className="text-3xl ">Asoschilar</h1>
           <div className="flex mt-3">
             <img src={FirstFounders} alt="" />
-            <img src={SecondFounders} alt="" />
+            <img src={SecondFounders} className="ml-2" alt="" />
           </div>
         </div>
         <div>
@@ -22,7 +22,7 @@ const Footers = () => {
           <h1 className="text-3xl ">Bo'limlar</h1>
           <p>Asosiy</p>
           <p>Essential</p>
-          <p>O’yinlar</p>
+          <p>O'yinlar</p>
           <p>Test</p>
         </div>
       </div>
